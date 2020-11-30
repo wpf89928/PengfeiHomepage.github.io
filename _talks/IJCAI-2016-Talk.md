@@ -2,9 +2,9 @@
 title: "Deep Nonlinear Feature Coding for Unsupervised domain adapatation"
 collection: talks
 type: "Talk"
-venue: "Sutton North, Hilton Hotel, New York City"
+venue: "Sutton North,  New York Hilton Midtown Hotel"
 date: 2016-07-13
-location: "San Francisco, California"
+location: "New York City, USA"
 ---
 
 [Downlond the conference talk slides.](https://drive.google.com/file/d/1ZEWvOQXhCppSsjs0KucqjEQw2KBBCMQk/view?usp=sharing)
