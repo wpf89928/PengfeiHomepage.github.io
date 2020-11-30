@@ -2,7 +2,7 @@
 title: "Source-Target Similarity Modelings for Multi-Source Transfer Gaussian Process Regression"
 collection: talks
 type: "Conference proceedings talk"
-venue: "Conference Room 4.6 & 4.6, International Convention Centre, Sydney Australia"
+venue: "Conference Room 4.6 & 4.6, International Convention Centre"
 date: 2017-08-07
 location: "Sydney, Australia"
 ---
