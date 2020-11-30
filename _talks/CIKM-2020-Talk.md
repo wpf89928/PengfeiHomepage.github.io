@@ -1,5 +1,5 @@
 ---
-title: "Adaptive Knowledge Transfer based on Transfer Neural Kernel Network"
+title: "Succinct Adaptive Manifold Transfer"
 collection: talks
 type: "Conference proceedings talk"
 venue: "Online"
