@@ -7,6 +7,8 @@ date: 2017-08-07
 location: "Sydney, Australia"
 ---
 
+This is a conference talk presented in ICML 2017.
+
 [Download the conference talk slides.](https://drive.google.com/file/d/1Gv2l2Gu64NffqkdHnKqYPDH2PoUoO_4G/view?usp=sharing)
 
 [Download the conference poster.](https://drive.google.com/file/d/1pG34JfJdTHUx66mj5YbxuHbBis-0EQvw/view?usp=sharing)
