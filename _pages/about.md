@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Wei Pengfei. I am currently a research fellow in the Medicomp Lab of National University of Singapore. My current advisor is Prof. [Leong Tze Yun](https://www.comp.nus.edu.sg/~leongty/Home.html). I recieved my PhD degree from the School of Computer Science and Engineering, Nanyang Technological University, Singapore, in 2019. My PhD supervisor is Prof. [Ke Yiping](https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=YPKE&CategoryDescription=ComputerScienceandEngineering).
+My name is Wei Pengfei. I am currently a research fellow in the Medcomp Lab of National University of Singapore. My current advisor is Prof. [Leong Tze Yun](https://www.comp.nus.edu.sg/~leongty/Home.html). I recieved my PhD degree from the School of Computer Science and Engineering, Nanyang Technological University, Singapore, in 2019. My PhD supervisor is Prof. [Ke Yiping](https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=YPKE&CategoryDescription=ComputerScienceandEngineering).
 
 Research Interests
 ======
