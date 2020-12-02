@@ -2,7 +2,7 @@
 title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
-venue: "Beihang University, School of Electronics information and Engineering"
+venue: "Beihang University, School of Electronics and information Engineering"
 date: 2012/09 - 2014/01
 location: "Beijing, China"
 ---
