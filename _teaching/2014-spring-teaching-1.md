@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Tutorial"
+type: "Undergraduate Cource"
 venue: "Beihang University, School of Electronics and information Engineering"
 Date: "2012"
 location: "Beijing, China"
