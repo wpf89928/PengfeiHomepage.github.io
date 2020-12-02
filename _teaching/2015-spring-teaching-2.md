@@ -1,20 +1,10 @@
 ---
 title: "Teaching experience 2"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Lab Supervision"
+venue: "Nanyang Technological Unviersity, School of Computer Science and Engineering"
+location: "Singapore"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I served as the teaching assistant of the SCSE undergradate cource, Algorithms, for 3 semsters from 2015 to 2017.  
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
