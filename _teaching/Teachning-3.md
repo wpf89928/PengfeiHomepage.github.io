@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience 3"
 collection: teaching
-type: "Lab Supervision"
+type: "Undergraduate Cource"
 venue: "Nanyang Technological Unviersity, School of Computer Science and Engineering"
 Data: "2016"
 location: "Singapore"
