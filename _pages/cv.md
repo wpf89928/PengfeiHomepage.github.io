@@ -9,51 +9,41 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my CV here]().
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in electronic and information engineering, Beihang University (BUAA), Beijing, China, 2007-2011
+* M.S. in electronic and communication engineering, Beihang University (BUAA),  Beijing, China, 2011- 2014
+* Ph.D in computer science and engineering, Nanyang Technological University (NTU), Singapore, 2014-2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019/05-present: Research Fellow 
+  * Artificial Intelligence Lab in National University of Singapore (NUS)
+  * Supervisor: Professor Leong Tze Yun
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018/11-2019/05: Research Associate
+  * Computational Intelligence Lab in NTU
+  * Supervisor: Professor Ke Yiping
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2014/03-2014/08: Research Associate
+  * Rolls-Royce@NTU Corporate Lab in NTU in NTU
+  * Supervisor: Professor Chng Eng Siong                                                                                                                      
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Severed as PC of conference: 
+·	AAAI 2018, 2019, 2020
+·	IJCAI 2018, 2019, 2020
+·	NeurIPS 2018, 2019, 2020 
+·	ICML 2019, 2020
+·	ICLR 2018, 2019, 2020
+
+* Severed as reviewer for journal:
+·	IEEE Trans on Neural Networks and Learning Systems
+·	IEEE Trans on Data Engineering
+·	IEEE Trans on Cybernetics 
+·	IEEE Trans on Emerging Topics on Computational Intelligence
+
+
