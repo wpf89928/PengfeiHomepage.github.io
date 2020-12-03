@@ -31,14 +31,14 @@ Work experience
   
 Service and leadership
 ======
-* Severed as PC of conference: 
+* Serve as PC of conference: 
   * AAAI 2018, 2019, 2020
   * IJCAI 2018, 2019, 2020
   * NeurIPS 2018, 2019, 2020 
   * ICML 2019, 2020
   * ICLR 2018, 2019, 2020
 
-* Severed as reviewer for journal:
+* Serve as reviewer for journal:
   * IEEE Trans on Neural Networks and Learning Systems
   * IEEE Trans on Data Engineering
   * IEEE Trans on Cybernetics 
