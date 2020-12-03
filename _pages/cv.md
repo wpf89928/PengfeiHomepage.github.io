@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV here]().
+[Download my CV here](https://drive.google.com/file/d/1LAErA9MYJe3mybRl3pG8ABM-yZVi9NSW/view?usp=sharing).
 
 Education
 ======
@@ -34,16 +34,16 @@ Work experience
 Service and leadership
 ======
 * Severed as PC of conference: 
-·	AAAI 2018, 2019, 2020
-·	IJCAI 2018, 2019, 2020
-·	NeurIPS 2018, 2019, 2020 
-·	ICML 2019, 2020
-·	ICLR 2018, 2019, 2020
+  * AAAI 2018, 2019, 2020
+  * IJCAI 2018, 2019, 2020
+  * NeurIPS 2018, 2019, 2020 
+  * ICML 2019, 2020
+  * ICLR 2018, 2019, 2020
 
 * Severed as reviewer for journal:
-·	IEEE Trans on Neural Networks and Learning Systems
-·	IEEE Trans on Data Engineering
-·	IEEE Trans on Cybernetics 
-·	IEEE Trans on Emerging Topics on Computational Intelligence
+  * IEEE Trans on Neural Networks and Learning Systems
+  * IEEE Trans on Data Engineering
+  * IEEE Trans on Cybernetics 
+  * IEEE Trans on Emerging Topics on Computational Intelligence
 
 
