@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV here](https://drive.google.com/file/d/1LAErA9MYJe3mybRl3pG8ABM-yZVi9NSW/view?usp=sharing).
-
 Education
 ======
 * B.S. in electronic and information engineering, Beihang University (BUAA), Beijing, China, 2007-2011
@@ -47,3 +45,4 @@ Service and leadership
   * IEEE Trans on Emerging Topics on Computational Intelligence
 
 
+[Download my CV here](https://drive.google.com/file/d/1LAErA9MYJe3mybRl3pG8ABM-yZVi9NSW/view?usp=sharing).
