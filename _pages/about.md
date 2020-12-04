@@ -28,3 +28,4 @@ Selected Papers
 -	**Pengfei Wei**, Yiping Ke, Chi Keong Goh. “Deep Nonlinear Feature Coding for Unsupervised Domain Adaptation”, International Joint Conference on Artificial Intelligence (IJCAI), 2016, 2189-2195.
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=ciVs4u2wbw7OBuGkwyDsEPEZdJ1WyonWh2FoqYgAkec"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ciVs4u2wbw7OBuGkwyDsEPEZdJ1WyonWh2FoqYgAkec&cl=ffffff&w=a"></script>
