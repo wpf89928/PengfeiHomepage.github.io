@@ -26,7 +26,7 @@ Work experience
   * Supervisor: Professor Ke Yiping
   
 * 2014/03-2014/08: Research Associate
-  * Rolls-Royce@NTU Corporate Lab in NTU in NTU
+  * Rolls-Royce@NTU Corporate Lab in NTU
   * Supervisor: Professor Chng Eng Siong                                                                                                                      
   
 Service and leadership
