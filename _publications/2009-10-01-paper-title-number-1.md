@@ -6,6 +6,7 @@ author_profile: true
 ---
 Conference Papers:
 ======
+- Thanh Vinh Vo, **Pengfei Wei**, Wicher Bergsma, Tze Yun Leong. "Causal Modeling with Stochastic Confounders". The 24th International Conference on Artificial Intelligence and Statistics (AISTATS), 2021, Online. ([PDF](https://arxiv.org/pdf/2004.11497.pdf))
 - **Pengfei Wei**, Yiping Ke, Zhiqiang Xu, and Tze Yun Leong. "Succinct Adaptive Manifold Transfer". International Confe rence on Information and Knowledge Management (CIKM), 2020, Ireland, Online. ([PDF](https://dl.acm.org/doi/pdf/10.1145/3340531.3411921))
 - Zhining Liu, **Pengfei Wei**, Jing Jiang, Wei Cao, Jiang Bian, and Yi Chang. "MESA: Effective Ensemble Imbalanced Learning with MEta SAmpler". Neural Information Processing Systems (NeurIPS), 2020, Online. ([PDF](https://arxiv.org/pdf/2010.08830.pdf))
 - Han Zheng, **Pengfei Wei**, Jing Jiang, Guodong Long, Qinghua Lu, and Chengqi Zhang. "Cooperative Heterogeneous Deep Reinforcement Learning". Neural Information Processing Systems (NeurIPS), 2020, Online. ([PDF](https://arxiv.org/pdf/2011.00791.pdf))
