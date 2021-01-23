@@ -14,6 +14,13 @@ Research Interests
 ======
 My research interests inculde transfer learning, domain adaptation, reinforcement learning and their interdisciplinary topics as well as thier applications to computer vision, natural langauge process, and system engineering etc.
 
+Recent News
+======
+- The paper titled "Causal Modeling with Stochastic Confounders" is accepted by AISTATS 2021! 
+
+- The paper titled "Easy-but-effective Domain Sub-similarity Learning for Transfer Regression" is accepted by TKDE.
+
+- The paper titled "Randomized Transferable Machine" is accepted by ICPR 2020.
 
 Selected Papers
 ======
