@@ -17,7 +17,10 @@ Education
 
 Work experience
 ======
-* 2019/05-present: Research Fellow 
+* 2021/03-present: Research Scientist 
+  * AI lab of Bytedance, Singapore
+
+* 2019/05-2021/03: Research Fellow 
   * Artificial Intelligence Lab in National University of Singapore (NUS)
   * Supervisor: Professor Leong Tze Yun
 
@@ -45,4 +48,4 @@ Service and leadership
   * IEEE Trans on Emerging Topics on Computational Intelligence
 
 
-[Download my CV here](https://drive.google.com/file/d/1LAErA9MYJe3mybRl3pG8ABM-yZVi9NSW/view?usp=sharing).
+[Download my CV here](https://drive.google.com/file/d/1Pv28d1qhhHgy8QZHw7ACSUhWRcBbXHBU/view?usp=sharing).
