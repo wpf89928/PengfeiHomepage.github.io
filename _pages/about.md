@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Wei Pengfei. I am currently a research scientist in AI lab of Bytedance. I worked as a research fellow in the Medcomp Lab of National University of Singapore from May 2018 to March 2020 (advisor: Prof. [Leong Tze Yun](https://www.comp.nus.edu.sg/~leongty/Home.html)). I recieved my PhD degree from the School of Computer Science and Engineering, Nanyang Technological University, Singapore, in 2019. My PhD supervisor is Prof. [Ke Yiping](https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=YPKE&CategoryDescription=ComputerScienceandEngineering).
+My name is Wei Pengfei. I am currently a research scientist in AI lab of Bytedance. Our team is recuiting new members, and welcome to join us! All the positions are available [here](https://job.toutiao.com/s/eAxumA8).
+
+Before I joined Bytedance, I worked as a research fellow in the Medcomp Lab of National University of Singapore from May 2018 to March 2020 (advisor: Prof. [Leong Tze Yun](https://www.comp.nus.edu.sg/~leongty/Home.html)). I recieved my PhD degree from the School of Computer Science and Engineering, Nanyang Technological University, Singapore, in 2019. My PhD supervisor is Prof. [Ke Yiping](https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=YPKE&CategoryDescription=ComputerScienceandEngineering).
 
 Research Interests
 ======
@@ -16,6 +18,9 @@ My research interests inculde transfer learning, domain adaptation, reinforcemen
 
 Recent News
 ======
+
+- I joined the AI lab of Bytedance, Singapore on 8th August 2021. 
+
 - The paper titled "Causal Modeling with Stochastic Confounders" is accepted by AISTATS 2021! 
 
 - The paper titled "Easy-but-effective Domain Sub-similarity Learning for Transfer Regression" is accepted by TKDE.
