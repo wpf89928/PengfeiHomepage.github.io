@@ -19,7 +19,7 @@ My research interests inculde transfer learning, domain adaptation, reinforcemen
 Recent News
 ======
 
-- I joined the AI lab of Bytedance, Singapore on 8th August 2021. 
+- I joined the AI lab of Bytedance, Singapore on 8th March 2021. 
 
 - The paper titled "Causal Modeling with Stochastic Confounders" is accepted by AISTATS 2021! 
 
