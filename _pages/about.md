@@ -18,8 +18,7 @@ My research interests inculde transfer learning, domain adaptation, reinforcemen
 
 Recent News
 ======
-
-- The paper titled "Subdomain Adaptation with Manifolds Discrepancy Alignment" is accepted by IEEE Trans on Cybernectics.
+- The paper titled "Subdomain Adaptation with Manifolds Discrepancy Alignment" is accepted by IEEE Transactions on Cybernectics.
 
 - I joined the AI lab of Bytedance, Singapore on 8th March 2021. 
 
