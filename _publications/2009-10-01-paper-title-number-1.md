@@ -24,6 +24,7 @@ Conference Papers:
 
 Journal Papers:
 ======
+-	**Pengfei Wei**, Yiping, Ke, Xinghua Qu, Tze Yun Leong. “Subdomain Adaptation with Manifolds Discrepancy Alignment”, IEEE Transactions on Cybernetics, 2021. ([PDF](https://arxiv.org/pdf/2005.03229.pdf))
 -	**Pengfei Wei**, Ramon Sargana, Yiping, Ke, Yew Soon Ong. “Easy-but-effective Domain Sub-similarity Learning for Transfer Regression”, IEEE Transactions on Knowledge and Data Engineering, 2020. ([PDF](https://www.computer.org/csdl/journal/tk/5555/01/09266749/1oZxqu9nYcg))
 -	**Pengfei Wei**, Ramon Sargana, Yiping, Ke, Yew Soon Ong. “Practical Multisource Transfer Regression with Source–Target Similarity Captures”, IEEE Transactions on Neural Networks and Learning systems, 2020. ([PDF](https://ieeexplore.ieee.org/document/9165968))
 -	Zhiqiang Xu, Yiping Ke, Xin Cao, Chunlai Zhou, **Pengfei Wei**, Xin Gao. “A unified linear convergence analysis of k-SVD”, Memetic Computing, 2020. ([PDF](https://link.springer.com/article/10.1007%2Fs12293-020-00315-4))
