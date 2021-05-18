@@ -28,7 +28,9 @@ Recent News
 
 Selected Papers
 ======
--	**Pengfei Wei**, Ramon Sargana, Yiping, Ke, Yew Soon Ong. “Practical Multisource Transfer Regression with Source–Target Similarity Captures”, IEEE Transactions on Neural Networks and Learning systems, 2020. 
+-	**Pengfei Wei**, Yiping Ke, Xinghua Qu, Tze Yun Leong. “Subdomain Adaptation with Manifolds Discrepancy Alignment”, IEEE Transactions on Cybernectics, 2021. 
+
+-	**Pengfei Wei**, Ramon Sargana, Yiping Ke, Yew Soon Ong. “Practical Multisource Transfer Regression with Source–Target Similarity Captures”, IEEE Transactions on Neural Networks and Learning systems, 2020. 
 
 -	**Pengfei Wei**, Yiping Ke. “Knowledge Transfer based on Multiple Manifolds Assumption”. International Conference on Information and Knowledge Management (CIKM), 2019, Beijing, China, 279-287.
 
