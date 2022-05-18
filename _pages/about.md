@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Wei Pengfei. I am currently a research scientist in the AI lab of Bytedance. Our team is recruiting new members, and welcome to join us! All the positions are available [here](https://jobs.bytedance.com/referral/pc/position?keywords=&category=&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=&token=MzsxNjIwMjA1MzAzNjUwOzY5MzcxMDQxODMxNjIwNDU5ODg7MA). If interested, please send your CV to my [email](wpf89928@gmail.com)
+My name is Wei Pengfei. I am currently a research scientist in the AI lab of Bytedance. Our team is recruiting new members, and welcome to join us! All the positions are available [here](https://jobs.bytedance.com/referral/pc/position?keywords=&category=&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=&token=MzsxNjIwMjA1MzAzNjUwOzY5MzcxMDQxODMxNjIwNDU5ODg7MA).
 
 Before I joined Bytedance, I worked as a research fellow in the Medcomp Lab of National University of Singapore from May 2018 to March 2020 (advisor: Prof. [Leong Tze Yun](https://www.comp.nus.edu.sg/~leongty/Home.html)). I recieved my PhD degree from the School of Computer Science and Engineering, Nanyang Technological University, Singapore, in 2019. My PhD supervisor is Prof. [Ke Yiping](https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=YPKE&CategoryDescription=ComputerScienceandEngineering).
 
