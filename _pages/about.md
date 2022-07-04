@@ -14,17 +14,17 @@ Before I joined Bytedance, I worked as a research fellow in the Medcomp Lab of N
 
 Research Interests
 ======
-My research interests inculde transfer learning, domain adaptation, reinforcement learning and their interdisciplinary topics as well as thier applications to computer vision, natural langauge process, and system engineering etc.
+My research interests inculde transfer learning, domain adaptation, reinforcement learning and their interdisciplinary topics as well as thier applications to computer vision, natural langauge process, speech signal processing and system engineering etc.
 
 Recent News
 ======
-- The paper titled "Subdomain Adaptation with Manifolds Discrepancy Alignment" is accepted by IEEE Transactions on Cybernectics.
+- The paper titled "Transfer Kernel Learning for Multi-Source Transfer Gaussian Process Regression" is accepted by TPAMI.
 
-- I joined the AI lab of Bytedance, Singapore on 8th March 2021. 
+- The paper titled "Synthesising Audio Adversarial Examples for Automatic Speech Recognition" is accepted by SIGKDD 2022.
 
-- The paper titled "Causal Modeling with Stochastic Confounders" is accepted by AISTATS 2021! 
+- The paper titled "Importance Prioritized Policy Distillation" is accepted by SIGKDD 2022.
 
-- The paper titled "Easy-but-effective Domain Sub-similarity Learning for Transfer Regression" is accepted by TKDE.
+- The paper titled "Language adaptive cross-lingual speech representation learning with sparse sharing sub-networks" is accepted by ICASSP 2022.
 
 Selected Papers
 ======
