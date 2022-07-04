@@ -6,6 +6,9 @@ author_profile: true
 ---
 Conference Papers:
 ======
+- Xinghua Qu, **Pengfei Wei**, Mingyong Gao, Zhu Sun, Yew-Soon Ong, Zejun Ma. "Synthesising Audio Adversarial Examples for Automatic Speech Recognition". ACM Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022. 
+- Xinghua Qu, Yew-Soon Ong, Abhishek Gupta, **Pengfei Wei**, Zhu Sun, Zejun Ma. "Importance Prioritized Policy Distillation", ACM Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022. 
+- Yizhou Lu, Mingkun Huang, Xinghua Qu, Pengfei Wei, Zejun Ma. "Language adaptive cross-lingual speech representation learning with sparse sharing sub-networks". IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022. ([PDF](https://arxiv.org/pdf/2203.04583.pdf))
 - Thanh Vinh Vo, **Pengfei Wei**, Wicher Bergsma, Tze Yun Leong. "Causal Modeling with Stochastic Confounders". The 24th International Conference on Artificial Intelligence and Statistics (AISTATS), 2021, Online. ([PDF](https://arxiv.org/pdf/2004.11497.pdf))
 - **Pengfei Wei**, Yiping Ke, Zhiqiang Xu, and Tze Yun Leong. "Succinct Adaptive Manifold Transfer". International Confe rence on Information and Knowledge Management (CIKM), 2020, Ireland, Online. ([PDF](https://dl.acm.org/doi/pdf/10.1145/3340531.3411921))
 - Zhining Liu, **Pengfei Wei**, Jing Jiang, Wei Cao, Jiang Bian, and Yi Chang. "MESA: Effective Ensemble Imbalanced Learning with MEta SAmpler". Neural Information Processing Systems (NeurIPS), 2020, Online. ([PDF](https://arxiv.org/pdf/2010.08830.pdf))
@@ -24,6 +27,8 @@ Conference Papers:
 
 Journal Papers:
 ======
+- **Pengfei Wei**, Thanh Vinh Vo, Xinghua Qu, Yew Soon Ong, Zejun Ma. "Transfer Kernel Learning for Multi-source Transfer Gaussian Process Regression". IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022. ([PDF](https://ieeexplore.ieee.org/document/9802749))
+- Zhonghao Zhang, Qiqiang Li, Wen Song, **Pengfei Wei**, and Jing Guo. "A novel concavity based method for automatic segmentation of touching cells in microfluidic chips." Expert Systems with Applications, 2022. ([PDF](https://www.sciencedirect.com/science/article/abs/pii/S0957417422007692))
 -	**Pengfei Wei**, Yiping Ke, Xinghua Qu, Tze Yun Leong. “Subdomain Adaptation with Manifolds Discrepancy Alignment”, IEEE Transactions on Cybernetics, 2021. ([PDF](https://arxiv.org/pdf/2005.03229.pdf))
 -	**Pengfei Wei**, Ramon Sargana, Yiping Ke, Yew Soon Ong. “Easy-but-effective Domain Sub-similarity Learning for Transfer Regression”, IEEE Transactions on Knowledge and Data Engineering, 2020. ([PDF](https://www.computer.org/csdl/journal/tk/5555/01/09266749/1oZxqu9nYcg))
 -	**Pengfei Wei**, Ramon Sargana, Yiping, Ke, Yew Soon Ong. “Practical Multisource Transfer Regression with Source–Target Similarity Captures”, IEEE Transactions on Neural Networks and Learning systems, 2020. ([PDF](https://ieeexplore.ieee.org/document/9165968))
