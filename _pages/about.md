@@ -18,6 +18,12 @@ My research interests inculde transfer learning, domain adaptation, reinforcemen
 
 Recent News
 ======
+- The paper titled "Adaptive Transfer Kernel Learning for Transfer Gaussian Process Regression" is accepted by TPAMI.
+
+- The paper titled "Dynamic Transfer Gaussian Process Regression" is accepted by CIKM 2022.
+
+- The paper titled "Adaptive Multi-Source Causal Inference from Observational Data" is accepted by CIKM 2022.
+
 - The paper titled "Transfer Kernel Learning for Multi-Source Transfer Gaussian Process Regression" is accepted by TPAMI.
 
 - The paper titled "Synthesising Audio Adversarial Examples for Automatic Speech Recognition" is accepted by SIGKDD 2022.
