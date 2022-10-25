@@ -6,6 +6,8 @@ author_profile: true
 ---
 Conference Papers:
 ======
+- **Pengfei Wei**, Xinghua Qu, Wen Song, Zejun Ma. "Dynamic Transfer Gaussian Process Regression". 31st ACM International Conference on Information and Knowledge Management (CIKM), 2022. 
+- Thanh Vinh Vo, **Pengfei Wei**, Trong Nghia Hoang, Tze Yun Leong. "Adaptive Multi-Source Causal Inference from Observational Data". 31st ACM International Conference on Information and Knowledge Management (CIKM), 2022. 
 - Xinghua Qu, **Pengfei Wei**, Mingyong Gao, Zhu Sun, Yew-Soon Ong, Zejun Ma. "Synthesising Audio Adversarial Examples for Automatic Speech Recognition". ACM Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022. 
 - Xinghua Qu, Yew-Soon Ong, Abhishek Gupta, **Pengfei Wei**, Zhu Sun, Zejun Ma. "Importance Prioritized Policy Distillation", ACM Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022. 
 - Yizhou Lu, Mingkun Huang, Xinghua Qu, **Pengfei Wei**, Zejun Ma. "Language adaptive cross-lingual speech representation learning with sparse sharing sub-networks". IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022. ([PDF](https://arxiv.org/pdf/2203.04583.pdf))
@@ -27,6 +29,7 @@ Conference Papers:
 
 Journal Papers:
 ======
+- **Pengfei Wei**, Yiping Ke, Yew Soon Ong, Zejun Ma. "Adaptive Transfer Kernel Learning for Transfer Gaussian Process Regression". IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022.
 - **Pengfei Wei**, Thanh Vinh Vo, Xinghua Qu, Yew Soon Ong, Zejun Ma. "Transfer Kernel Learning for Multi-source Transfer Gaussian Process Regression". IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022. ([PDF](https://ieeexplore.ieee.org/document/9802749))
 - Zhonghao Zhang, Qiqiang Li, Wen Song, **Pengfei Wei**, and Jing Guo. "A novel concavity based method for automatic segmentation of touching cells in microfluidic chips." Expert Systems with Applications, 2022. ([PDF](https://www.sciencedirect.com/science/article/abs/pii/S0957417422007692))
 -	**Pengfei Wei**, Yiping Ke, Xinghua Qu, Tze Yun Leong. “Subdomain Adaptation with Manifolds Discrepancy Alignment”, IEEE Transactions on Cybernetics, 2021. ([PDF](https://arxiv.org/pdf/2005.03229.pdf))
