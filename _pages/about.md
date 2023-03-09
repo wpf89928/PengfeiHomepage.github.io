@@ -18,6 +18,8 @@ My research interests inculde transfer learning, domain adaptation, reinforcemen
 
 Recent News
 ======
+- The paper titled "Adaptive Policy Learning for Offline-to-Online Reinforcement Learning" is accepted by AAAI 2023.
+
 - The paper titled "Adaptive Transfer Kernel Learning for Transfer Gaussian Process Regression" is accepted by TPAMI.
 
 - The paper titled "Dynamic Transfer Gaussian Process Regression" is accepted by CIKM 2022.
