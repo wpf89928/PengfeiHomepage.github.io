@@ -6,6 +6,7 @@ author_profile: true
 ---
 Conference Papers:
 ======
+- Han Zheng, Xufang Luo, **Pengfei Wei**, Xuan Song, Dongsheng Li, Jin Jiang. "Adaptive Policy Learning for Offline-to-Online Reinforcement Learning". 37th AAAI Conference on Artificial Intelligence (AAAI), 2023. 
 - **Pengfei Wei**, Xinghua Qu, Wen Song, Zejun Ma. "Dynamic Transfer Gaussian Process Regression". 31st ACM International Conference on Information and Knowledge Management (CIKM), 2022. 
 - Thanh Vinh Vo, **Pengfei Wei**, Trong Nghia Hoang, Tze Yun Leong. "Adaptive Multi-Source Causal Inference from Observational Data". 31st ACM International Conference on Information and Knowledge Management (CIKM), 2022. 
 - Xinghua Qu, **Pengfei Wei**, Mingyong Gao, Zhu Sun, Yew-Soon Ong, Zejun Ma. "Synthesising Audio Adversarial Examples for Automatic Speech Recognition". ACM Conference on Knowledge Discovery and Data Mining (SIGKDD), 2022. 
