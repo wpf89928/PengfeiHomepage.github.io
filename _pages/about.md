@@ -18,6 +18,10 @@ My research interests inculde transfer learning, domain adaptation, reinforcemen
 
 Recent News
 ======
+- The paper titled "S2CD-VC: Self-heuristic Speaker Content Disentanglement for Any-to-Any Voice Conversion" is accepted by Interspeech 2023.
+
+- The paper titled "AudioQR: Deep Neural Audio Watermarks For QR Code" is accepted by IJCAI 2023.
+
 - The paper titled "Adaptive Policy Learning for Offline-to-Online Reinforcement Learning" is accepted by AAAI 2023.
 
 - The paper titled "Adaptive Transfer Kernel Learning for Transfer Gaussian Process Regression" is accepted by TPAMI.
@@ -27,12 +31,6 @@ Recent News
 - The paper titled "Adaptive Multi-Source Causal Inference from Observational Data" is accepted by CIKM 2022.
 
 - The paper titled "Transfer Kernel Learning for Multi-Source Transfer Gaussian Process Regression" is accepted by TPAMI.
-
-- The paper titled "Synthesising Audio Adversarial Examples for Automatic Speech Recognition" is accepted by SIGKDD 2022.
-
-- The paper titled "Importance Prioritized Policy Distillation" is accepted by SIGKDD 2022.
-
-- The paper titled "Language adaptive cross-lingual speech representation learning with sparse sharing sub-networks" is accepted by ICASSP 2022.
 
 Selected Papers
 ======
