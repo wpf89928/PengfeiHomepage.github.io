@@ -20,6 +20,8 @@ Recent News
 ======
 - The paper titled "Unsupervised Video Domain Adaptation for Action Recognition: A Disentanglement Perspective" is accepted by NeurIPs 2023.
 
+- The paper titled "Virtual Try-On with Pose-Garment Keypoints Guided Inpainting" is accepted by ICCV 2023.
+
 - The paper titled "S2CD-VC: Self-heuristic Speaker Content Disentanglement for Any-to-Any Voice Conversion" is accepted by Interspeech 2023.
 
 - The paper titled "AudioQR: Deep Neural Audio Watermarks For QR Code" is accepted by IJCAI 2023.
