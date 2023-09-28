@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Wei Pengfei. I am currently a research scientist in the AI lab of Bytedance. Our team is recruiting new members, and welcome to join us! All the positions are available [here](https://job.toutiao.com/s/F9fU3aq).
 
-Before I joined Bytedance, I worked as a research fellow in the Medcomp Lab of National University of Singapore from May 2018 to March 2020 (advisor: Prof. [Leong Tze Yun](https://www.comp.nus.edu.sg/~leongty/Home.html)). I recieved my PhD degree from the School of Computer Science and Engineering, Nanyang Technological University, Singapore, in 2019. My PhD supervisor is Prof. [Ke Yiping](https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=YPKE&CategoryDescription=ComputerScienceandEngineering).
+Before I joined Bytedance, I worked as a research fellow in the Medcomp Lab of National University of Singapore from May 2019 to March 2021 (advisor: Prof. [Leong Tze Yun](https://www.comp.nus.edu.sg/~leongty/Home.html)). I recieved my PhD degree from the School of Computer Science and Engineering, Nanyang Technological University, Singapore, in 2019. My PhD supervisor is Prof. [Ke Yiping](https://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=YPKE&CategoryDescription=ComputerScienceandEngineering).
 
 Research Interests
 ======
@@ -18,6 +18,8 @@ My research interests inculde transfer learning, domain adaptation, reinforcemen
 
 Recent News
 ======
+- The paper titled "Unsupervised Video Domain Adaptation for Action Recognition: A Disentanglement Perspective" is accepted by NeurIPs 2023.
+
 - The paper titled "S2CD-VC: Self-heuristic Speaker Content Disentanglement for Any-to-Any Voice Conversion" is accepted by Interspeech 2023.
 
 - The paper titled "AudioQR: Deep Neural Audio Watermarks For QR Code" is accepted by IJCAI 2023.
@@ -25,10 +27,6 @@ Recent News
 - The paper titled "Adaptive Policy Learning for Offline-to-Online Reinforcement Learning" is accepted by AAAI 2023.
 
 - The paper titled "Adaptive Transfer Kernel Learning for Transfer Gaussian Process Regression" is accepted by TPAMI.
-
-- The paper titled "Dynamic Transfer Gaussian Process Regression" is accepted by CIKM 2022.
-
-- The paper titled "Adaptive Multi-Source Causal Inference from Observational Data" is accepted by CIKM 2022.
 
 - The paper titled "Transfer Kernel Learning for Multi-Source Transfer Gaussian Process Regression" is accepted by TPAMI.
 
