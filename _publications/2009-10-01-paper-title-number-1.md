@@ -6,6 +6,8 @@ author_profile: true
 ---
 Conference Papers:
 ======
+- **Pengfei Wei**, Lingdong Kong, Xinghua Qu, Yi Ren, Zhiqiang Xu, Jing Jiang, Xiang Yin. “Unsupervised Video Domain Adaptation for Action Recognition: A Disentanglement Perspective”. NeurIPs 2023.
+- Zhi Li, **Pengfei Wei**, Xiang Yin, Zejun Ma, Alex Kot. “Virtual Try-On with Pose-Garment Keypoints Guided Inpainting”. ICCV 2023.
 - **Pengfei Wei**, Xiang Yin, Chunfeng Wang, Zhonghao Li, Xinghua Qu, Zhiqiang Xu, Zejun Ma. “S2CD-VC: Self-heuristic Speaker Content Disentanglement for Any-to-Any Voice Conversion”. Interspeech 2023.
 - Xinghua Qu, Xiang Yin, **Pengfei Wei**, Lu Lu, Zejun Ma.  “AudioQR: Deep Neural Audio Watermarks For QR Code”. International Joint Conference on Artificial Intelligence (IJCAI), 2023.
 - Han Zheng, Xufang Luo, **Pengfei Wei**, Xuan Song, Dongsheng Li, Jin Jiang. "Adaptive Policy Learning for Offline-to-Online Reinforcement Learning". 37th AAAI Conference on Artificial Intelligence (AAAI), 2023. 
