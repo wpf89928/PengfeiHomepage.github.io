@@ -18,6 +18,8 @@ My research interests inculde transfer learning, domain adaptation, reinforcemen
 
 Recent News
 ======
+- The paper titled "Prior and Prediction Inverse Kernel Transformer for Single Image Defocus Deblurring" is accepted by AAAI 2024.
+
 - The paper titled "Unsupervised Video Domain Adaptation for Action Recognition: A Disentanglement Perspective" is accepted by NeurIPs 2023.
 
 - The paper titled "Virtual Try-On with Pose-Garment Keypoints Guided Inpainting" is accepted by ICCV 2023.
